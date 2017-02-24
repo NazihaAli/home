@@ -1,0 +1,79 @@
+h1
+{
+	text-align: center;
+	font-size: 60pt;
+	font-family: Forte, Ravie, Verdana;
+	text-shadow: 3px 2px red;
+}
+body
+{
+	font-size: 17pt;
+	font-family: Century, Georgia, Verdana;
+	background-color: lightblue;
+}
+.firstimage
+{
+	margin-bottom: 2%; 
+	margin-left: 34%;
+	margin-right: 34%;
+}
+}
+.center
+{
+	text-align: center;
+}
+.picwithtext
+{
+	margin-left: 22%;
+	margin-right: 20%;
+}
+.picwithtext img 
+{
+    float: left;
+}
+.picwithtext p 
+{
+    width: 700px;
+}
+
+.displayed 
+{
+    display: block;
+	margin-top: 2%;
+	margin-bottom: 2%;
+    margin-left: auto;
+    margin-right: auto;
+}
+p
+{
+	font-size: 17pt;
+	text-align: center;
+	margin: 0% 20%;
+}
+.wrapper
+{
+	text-align: center;
+}
+.wrapper ul 
+{
+    font-size: 17pt;
+	display: inline-block;
+    margin: 1%;
+    padding: 0;
+}
+.twoimages
+{
+	display: inline-block;
+    margin: 2% 26%;
+    padding: 0;
+}
+h2
+{
+	text-align: center;
+	text-decoration: underline;
+	text-shadow: 2px 1px red;
+}
+h3
+{
+	text-align: center;
+}

@@ -1,0 +1,40 @@
+body
+{
+	font-family: Calibri, "Times New Roman", Verdana;
+	text-align: center;
+	margin: 2% 25%;
+	background-image: url("images/background.jpg");
+	background-color: #cccccc;
+}
+h1
+{
+	font-size: 40pt;
+}
+.wrapper
+{
+	text-align: center;
+}
+.wrapper ul, ol
+{
+    font-size: 17pt;
+	display: inline-block;
+    margin: 1% 22%;
+    padding: 0;
+}
+.wrapper2
+{
+	text-align: center;
+}
+.wrapper2 ol
+{
+	font-size: 17pt;
+	display: block;
+	margin: auto;
+	padding: 0;
+	list-style-position: inside;
+}
+
+h2
+{
+	font-size: 20pt;
+}
